@@ -1,0 +1,4 @@
+.env
+.vault.env
+__pycache__/
+*.log
